@@ -16,7 +16,7 @@ A cultural preservation tool that provides bidirectional translation between Ind
 - 🌿 **Cultural Preservation**: Maintains traditional vocabulary from the Kenyah tribe of East Kalimantan
 
 ## Technical Specifications
-- **Dictionary Size**: 200+ entries including:
+- **Dictionary Size**: 500+ entries including:
   - Numbers (1-1,000,000)
   - Common phrases
   - Nature-related terms
